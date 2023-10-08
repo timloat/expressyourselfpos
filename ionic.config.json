@@ -1,0 +1,7 @@
+{
+  "name": "expressyourselfpos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
